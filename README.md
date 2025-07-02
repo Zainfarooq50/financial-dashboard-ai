@@ -25,7 +25,7 @@ This Python tool generates a complete financial dashboard from raw business data
 ---
 
 ## 🚀 How to Use
-1. Ensure your OpenAI API key is configured inside `GPT_utils_fin.py`  
+1. Paste your OPENAI key in .env file.  
 2. Prepare your financial CSV file with columns:  
    `Date`, `Department`, `Revenue`, `Expenses`, `Profit`  
 3. Run the script:  
